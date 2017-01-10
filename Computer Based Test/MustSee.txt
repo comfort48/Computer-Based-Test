@@ -1,0 +1,4 @@
+Faculty Credentials is same for every faculty,since I havn't set an admin for my suite.
+
+Username of Faculty: faculty
+Password of Faculty: faculty
